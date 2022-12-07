@@ -2,3 +2,5 @@ this is test case 02
 add some more files
 
 edit from local 1 : make some changes
+edit from local 2 : make some changes--commit
+
